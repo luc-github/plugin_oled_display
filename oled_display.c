@@ -93,7 +93,7 @@ static const uint8_t JUMPTABLE_WIDTH_OFFSET = 3;   // Offset for width in jump t
 static bool disp_connected = false;
 static i2c_transfer_t i2c_data = {
    .cmd_bytes = 1,
-   .no_block = On
+   .no_block = Off
 };
 
 // Global variables

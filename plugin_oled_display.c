@@ -25,6 +25,7 @@
 #include "grbl/task.h"
 #include "grbl/system.h"
 #include "grbl/plugins.h"
+#include <stdio.h>
 
 #if DISPLAY_ENABLE == 33
 
@@ -43,7 +44,7 @@
 extern char const *const axis_letter[N_AXIS];
 
 // Define plugin version
-#define PLUGGIN_DISPLAY_VERSION "1.0.0"
+#define PLUGGIN_DISPLAY_VERSION "1.0.1"
 // Define polling delay
 #define POLLING_DELAY 800
 
