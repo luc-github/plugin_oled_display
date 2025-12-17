@@ -1,5 +1,10 @@
 # grblHAL Plugin for oled display ![Version](https://img.shields.io/badge/dynamic/json?label=Version&query=$.version&url=https://raw.githubusercontent.com/luc-github/plugin_oled_display/refs/heads/main/info.json)
 
+> [!WARNING]
+>### Disclaimer
+> The software is provided 'as is,' without any warranty of any kind, expressed or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+>It is essential that you carefully read and understand this disclaimer before using this software and its components. If you do not agree with any part of this disclaimer, please refrain from using the software.  
+
 Currently only ssd1306 and equivalent (e.g: ssd1315) and sh1106 are supported with a resolution of 128 x 64 pixels.
 
 ### Boot
