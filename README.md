@@ -1,4 +1,4 @@
-# grblHAL Plugin for oled display
+# grblHAL Plugin for oled display # grblHAL Plugin for oled display ![Version](https://img.shields.io/badge/dynamic/json?label=Version&query=$.version&url=https://raw.githubusercontent.com/luc-github/plugin_oled_display/refs/heads/main/info.json)
 
 Currently only ssd1306 and equivalent (e.g: ssd1315) and sh1106 are supported with a resolution of 128 x 64 pixels.
 
